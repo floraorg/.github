@@ -12,3 +12,6 @@ Content creators on YouTube face significant challenges when collaborating with 
 3. **Limited Flexibility**: Inability to delegate specific tasks without compromising channel security
 4. **Lack of Oversight**: No built-in approval system for changes
 5. **Time Zone Constraints**: Global teams struggle with coordination due to access limitations
+
+### Contributing
+I am willing to have any devs with intermediate knowledge of websockets and solidjs as cofounders. Hit me up with a dm at [namishh_](https://x.com/namishh_).
