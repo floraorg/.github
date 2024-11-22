@@ -7,4 +7,6 @@
   
   planned
   1. sakura - beautiful avatars as a microservice (planned in go/zig)
+  2. faux   - placeholders as a microservice (planned in go/zig)
+
 </samp>
