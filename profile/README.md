@@ -2,7 +2,7 @@
   
   random utilities made by [namishh](https://github.com/namishh)
   
-  currently - [aster](https://github.com/floraorg/aster) - the youtube collaboration platform (solid start // tailwind)
+  currently - aster - the youtube collaboration platform (solid start // tailwind)
 
   
   planned
