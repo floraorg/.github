@@ -2,7 +2,7 @@
   
   random utilities for the web
   
-  currently - aster - the youtube collaboration platform (solid start // tailwind) && orchid - the ai (soon) and overly complex pfp editor
+  currently - aster - the youtube collaboration platform (solid start // tailwind) && orchid - the ai (soon) and overly complex pfp editor (react/flask)
 
   
   small utilities that we made for ease
