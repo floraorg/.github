@@ -7,7 +7,7 @@
   2. orchid - the ai (soon) and overly complex pfp editor (react // flask)
 
   
-  small utilities that we made for ease -
+  other utilities -
   1. [sakura](https://github.com/floraorg/sakura) - beautiful avatars as a microservice
   2. [faux](https://github.com/floraorg/faux)   - placeholders as a microservice
 
