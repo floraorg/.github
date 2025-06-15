@@ -11,5 +11,5 @@
   1. [sakura](https://github.com/floraorg/sakura) - beautiful avatars as a microservice
   2. [faux](https://github.com/floraorg/faux)   - placeholders as a microservice
 
-  contact - [@namishh_](https://x.com/namishh_) | [@rexmkv](https://x.com/rexmkv)
+  contact - [@namishh__](https://x.com/namishh__) | [@rexmkv](https://x.com/rexmkv)
 </samp>
